@@ -1,4 +1,4 @@
-![alt text](https://imgur.com/a/QZDAU4c)
+![](VScodexplorer.png)
 # dev-environment-lab
 
 ## OS
