@@ -1,4 +1,4 @@
-<img src=https://imgur.com/swgnQwy>
+<img src=/home/pilgrimbliss/code/sei/labs/dev-environment-lab/VScodexplorer.png>
 # dev-environment-lab
 
 ## OS
