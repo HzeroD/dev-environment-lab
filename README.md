@@ -1,4 +1,4 @@
-![](VScodexplorer.png)
+<img src=https://imgur.com/a/QZDAU4c>
 # dev-environment-lab
 
 ## OS
