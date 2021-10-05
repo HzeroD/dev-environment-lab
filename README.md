@@ -1,4 +1,4 @@
-<img src=/home/pilgrimbliss/code/sei/labs/dev-environment-lab/VScodexplorer.png>
+<blockquote class="imgur-embed-pub" lang="en" data-id="swgnQwy"><a href="https://imgur.com/swgnQwy">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 # dev-environment-lab
 
 ## OS
